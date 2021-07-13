@@ -15,7 +15,7 @@ public class Wrapper {
 
 		int num1 = 3;
 		
-		Integer num2 = new Integer(3);	// 박싱
+		Integer num2 = new Integer(3);	// 박싱	// 이제 없어질 과거의 것이라 취소선이 있음. 존재는 하나 오토 박싱/언박싱이 나와서 안씀
 		int num3 = num2.intValue();		// 언박싱
 		Integer num4 = Integer.valueOf(num3);	//박싱
 		

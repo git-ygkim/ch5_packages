@@ -58,7 +58,8 @@ public class Calendar1 {
 				System.out.println("토요일");break;
 		}
 		
-		
+		// 2021년 7월 13일 오후 9:55:58 화요일
+
 		
 		
 		
